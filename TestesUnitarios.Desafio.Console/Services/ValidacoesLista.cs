@@ -29,5 +29,6 @@ namespace TestesUnitarios.Desafio.Console.Services
         {
             return lista.Min();
         }
+     
     }
 }
